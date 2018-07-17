@@ -1,0 +1,9 @@
+places=["US","UK","Lasa","ShangHai","ChangSha"]
+len(places)
+print(places)
+print(sorted(places))
+print(places)
+places1=sorted(places)
+places1.reverse()
+print(places1)
+print(places)
